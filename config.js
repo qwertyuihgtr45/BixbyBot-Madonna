@@ -7,12 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+  ['393201391411', 'Spidy🕷💋', true],
 ] //Numero degli owner
 
 //────────────────────────────
@@ -66,10 +61,10 @@ global.author = '𝐌𝐝'
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = 'TheCreW-𝐌𝐝'
 
 global.multiplier = 69 
-global.maxwarn = '4' 
+global.maxwarn = '6' 
 //────────────────────────────
 
 global.wm = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
